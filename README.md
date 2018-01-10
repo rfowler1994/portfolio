@@ -3,5 +3,10 @@
 
 # Table of Contents
  * Data-Structure Recreations
+   ** Stack
+   ** Queue
+   ** Set
+   ** List
+   ** heap
  * Relevant School Projects
  
