@@ -11,6 +11,6 @@
     
     This project was based off of a project found on the Open-AI site. Where they teach two humanoids to compete in several types of activites. My goal was to teach two humanoids to compete in a Sumo Wrestling Game. Achieving mixed results but learning much in the way of Reward Driven Machine Learning. 
  
- * Computer Vision
+ * Webcam+
  
- * Data-Structure Recreations
+    This was a computer vision project. It was designed to be used by video game streamers so that they can add effects to their webcam on the fly during their streams. It detects their face and can add various effects to the image of the webcam.
