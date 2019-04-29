@@ -4,9 +4,11 @@
 
 # Table of Contents 
  * Maze Game
+    
     The goal of this project was to create a simple game that was educational or helpful for children. To achieve this I created a Maze Game with the aim of increasing memory recall skills in the player.
     
  * Open AI - Competitive Self-Play Sumo Wrestling
+    
     This project was based off of a project found on the Open-AI site. Where they teach two humanoids to compete in several types of activites. My goal was to teach two humanoids to compete in a Sumo Wrestling Game. Achieving mixed results but learning much in the way of Reward Driven Machine Learning. 
  
  * Computer Vision
